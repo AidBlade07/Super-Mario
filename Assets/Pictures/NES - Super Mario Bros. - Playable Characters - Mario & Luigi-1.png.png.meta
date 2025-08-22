@@ -1,0 +1,1126 @@
+fileFormatVersion: 2
+guid: 399f13dd329e35144bf50f5a488be59d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 80
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126d7f05285f0ca49a375a4a1e3c2bb6
+      internalID: 804850339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 80
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25abf7298c2d06844806da636597d112
+      internalID: 577205168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 80
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f84b540dfb91fd4ca1c2f93fbaeac1e
+      internalID: 2044561173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 80
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccc552e0b6718842b07c1191978d094
+      internalID: 1271245586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 80
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53849b8289864284b8d34ba8c66444a9
+      internalID: -1044965270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f6ef74f4f3101418585cb2d6d08e79
+      internalID: -1103060549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 82
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e6c48550521c344b1da2a3f2d07290
+      internalID: 438755472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 80
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50aa8efaab7f78d4eb013d0001157865
+      internalID: -960637795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 80
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bf2ae4eb232ff4aac3cf5fbe7a2875
+      internalID: 1262112505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28de062fbe72fe047ace7fd2d2144824
+      internalID: -1840837633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 80
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba31edcbcfc2f14f911ca13a03ecefe
+      internalID: 442305603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 80
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216ad204e3a65ac4f97fa234d22fc1aa
+      internalID: 1626281778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 80
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15082fe9e8d5d2a4fa47111681bf81aa
+      internalID: 1793751264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 80
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d92fb9baa4b06e40a42f17acb187392
+      internalID: 356353839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 90
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6599fee27a56d6a489ac70f697e8336c
+      internalID: -1143765408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97668f8355ec99f43bd5bb7d5c5bf320
+      internalID: -557031198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3caf9f14bc51ff4688a41faac32e806
+      internalID: 1811199372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 40
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cff1ebab380024a86745166226981b
+      internalID: -617459713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9095449f1a6df0940a79962b0ae666d9
+      internalID: 141828148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9eae070e550b145bec2f7d74b9d795
+      internalID: -528903603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf1f01a0e784c44abe7b0da17bc6fda
+      internalID: -650788079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 40
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231f8e3dbb3f5194eb0a2dad1a0e48a3
+      internalID: 1926043462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_22
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 41
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52a8596e22e3b84dbe081ff6202ddff
+      internalID: 431496498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 44
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e5ab95f42e8a54fa317db72ee9b35f
+      internalID: -238322184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_24
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 42
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ae22c834ede94f84a6d7c4f868921
+      internalID: -1883741026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 41
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e8f26610306d84b958bd0bb7b6401d
+      internalID: -673635541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 42
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43fed38e4122f34b84de03c744be47f
+      internalID: -2106364052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_27
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 41
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c840f1f5e4889aa4fae6fa3b47e66e4c
+      internalID: -1766405579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 42
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713bc3bb06aea9a4aae7769fe01bf969
+      internalID: 1487925679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_29
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 41
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378207ff03261314b95825fe57923a33
+      internalID: 460272341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fb87ee8aa00054589347989e6085de
+      internalID: -2113904238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ee75b7094d9ad47a626b8dc734c89d
+      internalID: -1315621118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_32
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e3aa16c84fd2d4ead347c51b2e6804
+      internalID: 1406679544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3324e8eb275c09c4da8ee02d4cbf54f1
+      internalID: -1938572968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc829d7fea4ad9348b2f6feb84334ce9
+      internalID: 558834319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19156f46e021c7f4dbc1c16d234af30f
+      internalID: 462123056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70f0f8d5257acd49aaeb9bcb79b576b
+      internalID: -1077480819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845e09d1c8a0d1f4b99fd3719c0baba4
+      internalID: -877258166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5170cf18e90b3d469e9d17402464ea3
+      internalID: -1915019531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_39
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb3b4d7458b3b344ba7b05249f3c6ed
+      internalID: -158865562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad8959ab1b95dd4aaea1e127dbacc6f
+      internalID: -1704031463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_41
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863dd61df3b065e4c9715dc0e79196a6
+      internalID: -777411883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488d14cbaaff7d749bcb36c8b4518e50
+      internalID: 1420274680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366ea4cf682c9fa4a9a45141c58fcdc6
+      internalID: 1749382135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6896f342ca471e748a9fc0e49ffcf58d
+      internalID: -802354477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f7ca8cec403a54795d4eefae04c9d1
+      internalID: -796152683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_0: 804850339
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_1: 577205168
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_10: 442305603
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_11: 1626281778
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_12: 1793751264
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_13: 356353839
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_14: -1143765408
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_15: -557031198
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_16: 1811199372
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_17: -617459713
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_18: 141828148
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_19: -528903603
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_2: 2044561173
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_20: -650788079
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_21: 1926043462
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_22: 431496498
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_23: -238322184
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_24: -1883741026
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_25: -673635541
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_26: -2106364052
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_27: -1766405579
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_28: 1487925679
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_29: 460272341
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_3: 1271245586
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_30: -2113904238
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_31: -1315621118
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_32: 1406679544
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_33: -1938572968
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_34: 558834319
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_35: 462123056
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_36: -1077480819
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_37: -877258166
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_38: -1915019531
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_39: -158865562
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_4: -1044965270
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_40: -1704031463
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_41: -777411883
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_42: 1420274680
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_43: 1749382135
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_44: -802354477
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_45: -796152683
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_5: -1103060549
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_6: 438755472
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_7: -960637795
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_8: 1262112505
+      NES - Super Mario Bros. - Playable Characters - Mario & Luigi-1.png_9: -1840837633
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
