@@ -18,6 +18,10 @@ public class PlayerMovement : MonoBehaviour
     public TMP_Text cointxt;
     public Sprite sIdle;
     public Sprite sJump;
+    public Sprite[] sWalk;
+    private int walkFrame = 0;
+    private float walkTimer = 0;
+
 
     // Start is called before the first frame update
     void Start()
@@ -78,17 +82,39 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        walkTimer += Time.deltaTime;
+        bool walking = false;
         Vector2 horizontalMovement = new Vector2(speedy * Time.deltaTime, 0);
         if (Input.GetKey("d") || Input.GetKey("right"))
         {
+            walking = true;
             transform.Translate(horizontalMovement);
             rend.flipX = false;
+            if (walkTimer > 0.16f)
+            {
+                walkFrame++;
+                walkTimer = 0;
+                if (walkFrame > 3)
+                {
+                    walkFrame = 0;
+                }
+            }
         }
 
         if (Input.GetKey("a") || Input.GetKey("left"))
         {
+            walking = true;
             transform.Translate(-horizontalMovement);
             rend.flipX = true;
+            if (walkTimer > 0.16f)
+            {
+                walkFrame++;
+                walkTimer = 0;
+                if (walkFrame > 3)
+                {
+                    walkFrame = 0;
+                }
+            }
         }
 
 
@@ -107,6 +133,10 @@ public class PlayerMovement : MonoBehaviour
         if (CheckGround() == true)
         {
             rend.sprite = sIdle;
+            if (walking == true)
+            {
+                rend.sprite = sWalk[walkFrame];
+            }
         }
         else
         {

@@ -179,7 +179,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Coins: '
+  m_text: 'Coins: 0'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
@@ -435,6 +435,11 @@ MonoBehaviour:
   cointxt: {fileID: 61840944}
   sIdle: {fileID: -557031198, guid: 399f13dd329e35144bf50f5a488be59d, type: 3}
   sJump: {fileID: -650788079, guid: 399f13dd329e35144bf50f5a488be59d, type: 3}
+  sWalk:
+  - {fileID: -617459713, guid: 399f13dd329e35144bf50f5a488be59d, type: 3}
+  - {fileID: 1811199372, guid: 399f13dd329e35144bf50f5a488be59d, type: 3}
+  - {fileID: -617459713, guid: 399f13dd329e35144bf50f5a488be59d, type: 3}
+  - {fileID: 141828148, guid: 399f13dd329e35144bf50f5a488be59d, type: 3}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
