@@ -19,6 +19,7 @@ public class PlayerMovement : MonoBehaviour
     public Sprite sIdle;
     public Sprite sJump;
     public Sprite[] sWalk;
+    public Sprite sCrouch;
     private int walkFrame = 0;
     private float walkTimer = 0;
 
@@ -124,10 +125,6 @@ public class PlayerMovement : MonoBehaviour
             rend.sprite = sJump;
         }
 
-        if (Input.GetKey("s") || Input.GetKey("down"))
-        {
-            //    rb.AddForce(-verticalMovement);
-        }
         transform.rotation = Quaternion.identity;
 
         if (CheckGround() == true)
@@ -143,6 +140,12 @@ public class PlayerMovement : MonoBehaviour
             rend.sprite = sJump;
         }
 
+        if (Input.GetKey("s") || Input.GetKey("down"))
+        {
+            //    rb.AddForce(-verticalMovement);
+            rend.sprite = sCrouch;
+
+        }
     }
 
     void OnCollisionEnter2D(Collision2D collision)

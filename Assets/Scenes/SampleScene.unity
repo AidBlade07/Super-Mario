@@ -440,6 +440,7 @@ MonoBehaviour:
   - {fileID: 1811199372, guid: 399f13dd329e35144bf50f5a488be59d, type: 3}
   - {fileID: -617459713, guid: 399f13dd329e35144bf50f5a488be59d, type: 3}
   - {fileID: 141828148, guid: 399f13dd329e35144bf50f5a488be59d, type: 3}
+  sCrouch: {fileID: 1926043462, guid: 399f13dd329e35144bf50f5a488be59d, type: 3}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
